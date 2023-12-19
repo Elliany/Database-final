@@ -1,0 +1,3 @@
+export CUDA_VISIBLE_DEVICES=0
+export TF_FORCE_GPU_ALLOW_GROWTH=1
+export KERAS_BACKEND=tensorflow-gpu
